@@ -1,0 +1,6 @@
+@ApiMonetizationGateway.API_HostAddress = http://localhost:5296
+
+GET {{ApiMonetizationGateway.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

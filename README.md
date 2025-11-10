@@ -22,7 +22,7 @@ A .NET 8 based API monetization gateway that handles rate limiting, usage tracki
 
 1. Clone the repository
 2. Run to build: `docker build -f ApiMonetizationGateway.API/Dockerfile -t monetization-api .`
-3. Run to a Docker container: `docker run -p 8080:8080 ApiMonetizationGateway.API`
+3. Run to a Docker container: `docker run -p 8080:8080 monetization-api`
 4. The API will be available at `http://localhost:8080`
 
 ### API Usage

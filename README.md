@@ -35,6 +35,9 @@ APIs
 - Free Tier - Api Key - asftdtyfqwy2332jb423ui4b3u2b324
 - Pro Tier - Api Key - qwftwefqwy2332jb423ui4b3u2b334
 
+### Database setup
+-- Run CMD from Infrastructure project - `update-database` 
+
 ```bash
 # Make requests with API key
 curl -H "X-API-Key: your-api-key" http://localhost:8080/api/Test
